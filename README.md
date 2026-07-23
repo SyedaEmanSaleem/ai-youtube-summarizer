@@ -1,7 +1,7 @@
 # 🎬 AI YouTube Video Summarizer
 
 Paste any YouTube link and get an easy-to-understand **summary, main ideas,
-key points, important lessons, and a conclusion** — generated locally on
+key points, important lessons, and a conclusion** ,generated locally on
 your own CPU. No API keys, no paid services, no Ollama, no GPU required.
 
 ---
