@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Hugging Face model cache (downloaded automatically, don't commit)
+models/*
+!models/.gitkeep
+*.bin
+*.safetensors
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Env vars (not required by this project, but kept out just in case)
+.env
